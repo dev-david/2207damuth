@@ -127,7 +127,7 @@
 								</div>
 								<div class="4u">
 									<article class="item">
-										<a href="images/home.jpg" class="image full fancybox"><img src="images/cam2.jpg" alt="" /></a>
+										<a href="images/home2.jpg" class="image full fancybox"><img src="images/cam2.jpg" alt="" /></a>
 										<header>
 											<h3>Professional Photography</h3>
 										</header>
