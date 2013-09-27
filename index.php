@@ -107,7 +107,7 @@
 							<div class="row">
 								<div class="4u">
 									<article class="item">
-										<a href="images/home.jpg" class="image full fancybox"><img src="images/home.jpg" alt="" /></a>
+										<a href="images/home2.jpg" class="image full fancybox"><img src="images/home2.jpg" alt="" /></a>
 										<header>
 											<h3><strong>Custom Internet Domain</strong></h3>
 										</header>
