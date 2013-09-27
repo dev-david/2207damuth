@@ -187,12 +187,12 @@
 									<article class="item">
 										<a href="images/comp1.jpg" class="image full fancybox"><img src="images/comp1.jpg" alt="" /></a>
 										<header>
-										<h3><strong>2342 14th Ave</strong></h3>
+										<h3><strong>2028 Damuth St - Unit 2</strong></h3>
 										<ul>
-											<li>4 Bed - 2 Bath</li>
-											<li>1,539 Sq Ft - 3,450 Lot</li>
-											<li>List: 4/3/13 - Pending: 5/13/13</li>
-											<li>List: $299,000 - SOLD $307,500</li>
+											<li>2 Bed - 1.5 Bath</li>
+											<li>891 Sq Ft -  0 Lot</li>
+											<li>List: 5/14/13 - Pending: 5/23/13</li>
+											<li>List: $298,888 - SOLD $330,000</li>
 										</ul>
 									</article>
 								</div>
@@ -200,25 +200,25 @@
 									<article class="item">
 										<a href="images/comp2.jpg" class="image full fancybox"><img src="images/comp2.jpg" alt="" /></a>
 										<header>
-										<h3><strong>2115 15th Ave</strong></h3>
+										<h3><strong>2207 Damuth St - Unit 3</strong></h3>
 										<ul>
-											<li>2 Bed - 1 Bath</li>
-											<li>1,075 Sq Ft - 3,720 Lot</li>
-											<li>List: 3/11/13 - Pending: 3/29/13</li>
-											<li>List: $329,000 - SOLD $348,000</li>
+											<li>2 Bed - 1.5 Bath</li>
+											<li>905 Sq Ft - 0 Lot</li>
+											<li>List: 2/6/13 - Pending: 3/24/13</li>
+											<li>List: $289,000 - SOLD $289,000</li>
 										</ul>
 									</article>
 								</div>
 								<div class="4u">
 									<article class="item">
-										<a href="images/comp3.png" class="image full fancybox"><img src="images/comp3.png" alt="" /></a>
+										<a href="images/comp3.jpg" class="image full fancybox"><img src="images/comp3.jpg" alt="" /></a>
 										<header>
-										<h3><strong>1636 E 20th St</strong></h3>
+										<h3><strong>3610 Laguna Ave</strong></h3>
 										<ul>
-											<li>3 Bed - 2 Bath</li>
-											<li>1,590 Sq Ft - 3,400 Lot</li>
-											<li>List: 5/14/13 - Pending: 6/17/13</li>
-											<li>List: $379,000 - SOLD $379,000</li>
+											<li>2 Bed - 1 Bath</li>
+											<li>727 Sq Ft - 0 Lot</li>
+											<li>List: 6/26/13 - Pending: 7/2/13</li>
+											<li>List: $269,000 - SOLD $320,000</li>
 										</ul>
 									</article>
 								</div>
